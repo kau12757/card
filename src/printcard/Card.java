@@ -6,7 +6,7 @@ package printcard;
 
 /** raw data  for the card suit,values
  * model the card - model class
- * @author user
+ * @author kamal
  */
 public class Card {
     /*enum - special class, user defined datatype - constants
